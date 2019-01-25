@@ -8,7 +8,7 @@ Delta tree for each hazard
 
 ## Overview
 
-![SAFA Approach](/V0_Tree_images/UAV-1006_SafetyTree.png)
+![SAFA Approach](/SAFA_process.png)
 
 
 ## Dataset
