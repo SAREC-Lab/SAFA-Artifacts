@@ -13,7 +13,7 @@ Delta tree for each hazard
 
 |  Hazard |  Tree V1 | Tree V2 |  Delta Tree |
 |:-------:|:--------:|:-------:|:-----------:|
-| Haz1... |  UAV-xxx | UAV-xxx |  Delta Tree |
+| Haz1... |  [UAV-xxx](/V0_Tree_images/UAV-1006_SafetyTree.png) | UAV-xxx |  Delta Tree |
 |   Haz2  |  UAV-xxx | UAV-xxx |  Delta Tree |
 | Haz3... |  UAV-xxx | UAV-xxx |  Delta Tree |
 | Haz4... |  UAV-xxx | UAV-xxx |  Delta Tree |
