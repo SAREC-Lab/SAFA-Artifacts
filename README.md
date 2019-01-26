@@ -24,7 +24,7 @@ for additional details.
 10. [UAV-930](/UAV-930.md)   - UAV collides with another UAV when Dronology issues RTL. 
 11. [UAV-945](/UAV-945.md)   - Area mapping provides insufficient coverage during search and rescue.
 12. [UAV-947](/UAV-947.md)   - Battery fails during flight.
-13. [UAV-999](/UAV-999.md)   - UAV receives waypoint commands but \n does not obey them
+13. [UAV-999](/UAV-999.md)   - UAV receives waypoint commands but does not obey them
 
 
 ## Data Set
