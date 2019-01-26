@@ -11,7 +11,7 @@ for additional details.
 
 
 ## Dataset
-|  Hazard   |  Tree V1 |
+|  Hazard   |  Trees |
 |:---------:|:--------:|
 |UAV-1006|  |[UAV-1006](/UAV-1006.md)|
 |UAV-1007|  |[UAV-1007](/UAV-1007.md)| 
