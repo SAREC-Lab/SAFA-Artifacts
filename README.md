@@ -26,10 +26,10 @@ for additional details.
 12. [UAV-947](/UAV-947.md)
 13. [UAV-999](/UAV-999.md)
 
-# Json Data 
-##### This data is pulled from Github repository and JIRA of Dronology System.
-More Information on Dronology is available [here](http://www.dronology.info)
-1.  [Version 0 of Dronology](/V0-simplified.json)
-2.  [Version 1 of Dronology](/V1-simplified.json)
+
+## Data Set
+
+We the raw data for both versions  [Version 0 of Dronology](/V0-simplified.json) and  [Version 1 of Dronology](/V1-simplified.json) as JSON files. 
+We further provide processed Graphviz files for both versions of the Artifact Trees ([V0](/V0_raw_artifact_GraphvizFiles), [V1](/V1_raw_artifact_GraphvizFiles) as well as the [Delta Trees](/Delta_gvFiles)
 
 
