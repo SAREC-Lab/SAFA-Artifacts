@@ -1,1 +1,12 @@
 
+Following are the contents of submitted package
+
+1. Data collected from GitHub repository and JIRA (Software management tool) in JSON Format (.json) for two different versions of Dronology System.
+2. Json Data is used to generate the Traceability Information Model (TIM) and safety assurance cases(SAC). 
+   TIM and SACs are publicly available for each Hazard in Graphviz (.gv) and png formats.
+3. Based on SACs, Change analysis from version 0 to version 1 is performed and a set of delta trees is produced. 
+   This set of delta trees are shared via Github in Graphviz (.gv) and png formats.
+   
+More information on this data is available in readme.md file.
+
+Since all data which is used in study along with its detailed analysis is shared publicly and therefore is available for validation and verification, we aim for the available badge.
