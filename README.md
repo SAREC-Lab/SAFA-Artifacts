@@ -28,6 +28,7 @@ for additional details.
 
 # Json Data 
 ##### This data is pulled from Github repository and JIRA of Dronology System.
+More Information on Dronology is available [here](http://www.dronology.info)
 1.  [Version 0 of Dronology](/V0-simplified.json)
 2.  [Version 1 of Dronology](/V1-simplified.json)
 
