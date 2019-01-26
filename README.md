@@ -27,7 +27,7 @@ for additional details.
 13. [UAV-999](/UAV-999.md)
 
 # Json Data 
-### pulled from Github repository and JIRA of Dronology System.
+##### This data is pulled from Github repository and JIRA of Dronology System.
 1.  [Version 0 of Dronology](/V0-simplified.json)
 2.  [Version 1 of Dronology](/V1-simplified.json)
 
