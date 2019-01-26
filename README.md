@@ -13,7 +13,7 @@ for additional details.
 ## Dataset
 |  Hazard   |  Trees |
 |:---------:|:--------:|
-|UAV-1006|  |[UAV-1006](/UAV-1006)|
+|UAV-1006|  |[UAV-1006](/UAV-1006.md)|
 |UAV-1007|  |[UAV-1007](/UAV-1007.md)| 
 |UAV-1009|  |[UAV-1009](/UAV-1009.md)| 
 |UAV-1018|  |[UAV-1018](/UAV-1018.md)| 
