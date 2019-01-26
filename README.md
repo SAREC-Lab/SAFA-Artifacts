@@ -29,7 +29,7 @@ for additional details.
 
 ## Data Set
 
-We the raw data for both versions  [Version 0 of Dronology](/V0-simplified.json) and  [Version 1 of Dronology](/V1-simplified.json) as JSON files. 
+As part of this dataset we provide the raw data for both versions  [Version 0](/V0-simplified.json) and  [Version 1](/V1-simplified.json) as JSON files. 
 We further provide processed Graphviz files for both versions of the Artifact Trees ([V0](/V0_raw_artifacts_GraphvizFiles), [V1](/V1_raw_artifacts_GraphvizFiles)) as well as the [Delta Trees](/Delta_gvFiles)
 
 
