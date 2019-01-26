@@ -12,19 +12,19 @@ for additional details.
 
 ## Hazard Analysis
 
-1.  [UAV-1006](/UAV-1006.md)
-2.  [UAV-1007](/UAV-1007.md) 
-3.  [UAV-1009](/UAV-1009.md) 
-4.  [UAV-1018](/UAV-1018.md)
-5.  [UAV-1021](/UAV-1021.md)
-6.  [UAV-1031](/UAV-1031.md)
-7.  [UAV-1101](/UAV-1101.md)
-8.  [UAV-861](/UAV-861.md)
-9.  [UAV-906](/UAV-906.md)
-10. [UAV-930](/UAV-930.md)
-11. [UAV-945](/UAV-945.md)
-12. [UAV-947](/UAV-947.md)
-13. [UAV-999](/UAV-999.md)
+1.  [UAV-1006](/UAV-1006.md) - UAV receives a goto directive that causes it to fly into terrain.
+2.  [UAV-1007](/UAV-1007.md) - UAV flies into a fixed stationary object such as a building or tree.
+3.  [UAV-1009](/UAV-1009.md) - Midair collision during flight execution.
+4.  [UAV-1018](/UAV-1018.md) - Satellite signals are lost causing the UAV to lose accurate localization and fly in seemingly                                  random directions to achieve its target
+5.  [UAV-1021](/UAV-1021.md) - UAV compass calibration error causes UAV to fly in incorrect direction.
+6.  [UAV-1031](/UAV-1031.md) - An untrusted UAV registers with Dronology, fails to comply with commands, and creates chaos in                                the airspace.
+7.  [UAV-1101](/UAV-1101.md) - UAV flies above the altitude permitted by FAA regulations.
+8.  [UAV-861](/UAV-861.md)   - Collision occurs between UAVs at takeoff.
+9.  [UAV-906](/UAV-906.md)   - UAV is no longer controllable from Dronology due to communication loss.
+10. [UAV-930](/UAV-930.md)   - UAV collides with another UAV when Dronology issues RTL. 
+11. [UAV-945](/UAV-945.md)   - Area mapping provides insufficient coverage during search and rescue.
+12. [UAV-947](/UAV-947.md)   - Battery fails during flight.
+13. [UAV-999](/UAV-999.md)   - UAV receives waypoint commands but \n does not obey them
 
 
 ## Data Set
