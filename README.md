@@ -10,32 +10,25 @@ for additional details.
 ![SAFA Approach](/SAFA_process.png)
 
 
-## Dataset
-  Hazard   |  Trees 
----------  |--------
-UAV-1006|  [UAV-1006](/UAV-1006.md)
-UAV-1007|  [UAV-1007](/UAV-1007.md) 
-UAV-1009|  [UAV-1009](/UAV-1009.md) 
-UAV-1018|  [UAV-1018](/UAV-1018.md) 
-UAV-1021|  [UAV-1021](/UAV-1021.md) 
-UAV-1031|  [UAV-1031](/UAV-1031.md) 
-UAV-1101|  [UAV-1101](/UAV-1101.md) 
-UAV-861|   [UAV-861](/UAV-861.md)
-UAV-906|   [UAV-906](/UAV-906.md) 
-UAV-930|   [UAV-930](/UAV-930.md)
-UAV-945|   [UAV-945](/UAV-945.md) 
-UAV-947|   [UAV-947](/UAV-947.md) 
-UAV-999|   [UAV-999](/UAV-999.md) 
+## Hazard Analysis
 
-|  Hazard |  Tree V1 | Tree V2 |  Delta Tree |
-|:-------:|:--------:|:-------:|:-----------:|
-| Haz1... |  [UAV-xxx](/V0_Tree_images/UAV-1006_SafetyTree.png) | UAV-xxx |  Delta Tree |
-|   Haz2  |  UAV-xxx | UAV-xxx |  Delta Tree |
-| Haz3... |  UAV-xxx | UAV-xxx |  Delta Tree |
-| Haz4... |  UAV-xxx | UAV-xxx |  Delta Tree |
-| Haz5... |  UAV-xxx | UAV-xxx |  Delta Tree |
-| Haz6... |  UAV-xxx | UAV-xxx |  Delta Tree |
-| Haz7... |  UAV-xxx | UAV-xxx |  Delta Tree |
-| Haz8... |  UAV-xxx | UAV-xxx |  Delta Tree |
-| Haz9... |  UAV-xxx | UAV-xxx |  Delta Tree |
-|  Haz10  |  UAV-xxx | UAV-xxx |  Delta Tree |
+1.  [UAV-1006](/UAV-1006.md)
+2.  [UAV-1007](/UAV-1007.md) 
+3.  [UAV-1009](/UAV-1009.md) 
+4.  [UAV-1018](/UAV-1018.md)
+5.  [UAV-1021](/UAV-1021.md)
+6.  [UAV-1031](/UAV-1031.md)
+7.  [UAV-1101](/UAV-1101.md)
+8.  [UAV-861](/UAV-861.md)
+9.  [UAV-906](/UAV-906.md)
+10. [UAV-930](/UAV-930.md)
+11. [UAV-945](/UAV-945.md)
+12. [UAV-947](/UAV-947.md)
+13. [UAV-999](/UAV-999.md)
+
+# Json Data 
+### pulled from Github repository and JIRA of Dronology System.
+1.  [Version 0 of Dronology](/V0-simplified.json)
+2.  [Version 1 of Dronology](/V1-simplified.json)
+
+
