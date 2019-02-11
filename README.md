@@ -24,13 +24,9 @@ However, as the size of the system evolves and grows in size, a SAC can be diffi
 Our approach, **Safety Artifact Forest Analysis** (SAFA), leverages traceability to automatically compare software artifacts from a previously approved or certified version with a new version of the system. We identify critical changes in the system and visualize them in a Delta View of the two versions. We further provide  actionable recommendations that an analyst or developer can take to evolve the safety case. We evaluate our approach using the [Dronology](http://www.dronology.info) system for monitoring and coordinating the actions of cooperating, small Unmanned Aerial Vehicles. Results from a user study show that SAFA helped users to identify changes that potentially impacted system safety and provided information that could be used to help maintain and evolve a SAC. 
 
 ## Visual Perspective of Artifacts
-Because the .JSON files do not provide a visual perspective of the artifacts and trace links that we are sharing, we further provide processed Graphviz files for both versions of the Artifact Trees ([V0](/V0_raw_artifacts_GraphvizFiles), [V1](/V1_raw_artifacts_GraphvizFiles)) as well as the [Delta Trees](/Delta_gvFiles).  These provide a viewpoint of the underlying data artifacts.
+Because the .JSON files do not provide a visual perspective of the artifacts and trace links that we are sharing, we further provide processed Graphviz files for both versions of the Artifact Trees ([V0](/V0_raw_artifacts_GraphvizFiles), [V1](/V1_raw_artifacts_GraphvizFiles)) as well as the [Delta Trees](/Delta_gvFiles).  The graphviz files can be modified with annotations.
 
-
-
-
-
-## Hazard Analysis
+Each SAFA tree initiates from a root hazard.  For each hazard we therefore provide views of its associated artifact tree and safety tree for each version (V1 and V2), and also the delta view depicting changes in the two versions.
 
 1.  [UAV-1006](/UAV-1006.md) - UAV receives a goto directive that causes it to fly into terrain.
 2.  [UAV-1007](/UAV-1007.md) - UAV flies into a fixed stationary object such as a building or tree.
