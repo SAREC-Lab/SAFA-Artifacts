@@ -3,8 +3,13 @@
 ## Data Set
 In this repository we make a set of artifacts available that were used for experiments in the paper:
 
-!Leveraging Artifact Trees to Evolve and Reuse Safety Cases, 
-!Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, ICSE 2019 -- available in preprint form [here](icse_19_safa_preprint.pdf). The primary artifacts are two .JSON files which contain hazards, requirements, design definitions, source code, acceptance tests, and environmental assumptions linked together by traceability links to form a tree structure.  The root node of the tree is a single hazard that is mitigated through the contributions of the other artifacts.
+Leveraging Artifact Trees to Evolve and Reuse Safety Cases 
+Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, 
+International Conference on Software Engineering, Montreal, Canada, 2019
+
+The paper is available in preprint form [here](icse_19_safa_preprint.pdf). 
+
+The primary artifacts are two .JSON files which contain hazards, requirements, design definitions, source code, acceptance tests, and environmental assumptions linked together by traceability links to form a tree structure.  The root node of the tree is a single hazard that is mitigated through the contributions of the other artifacts.
 
 The key contribution of this dataset is therefore the raw data for two versions of the Dronology System [Version 0](/V0-simplified.json) and  [Version 1](/V1-simplified.json) released as JSON files. The data set is easily reusable through writing a simple .JSON parser.  For additional information about Dronology please visit [https://dronology.info](https://dronology.info).
 
@@ -21,9 +26,7 @@ Our approach, **Safety Artifact Forest Analysis** (SAFA), leverages traceability
 Because the .JSON files do not provide a visual perspective of the artifacts and trace links that we are sharing, we further provide processed Graphviz files for both versions of the Artifact Trees ([V0](/V0_raw_artifacts_GraphvizFiles), [V1](/V1_raw_artifacts_GraphvizFiles)) as well as the [Delta Trees](/Delta_gvFiles).  These provide a viewpoint of the underlying data artifacts.
 
 
-Please also see the preprint of our paper [Leveraging Artifact Trees to Evolve and Reuse Safety Cases](icse_19_safa_preprint.pdf)
-(*Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz*)
-for additional details.
+
 
 
 ## Hazard Analysis
