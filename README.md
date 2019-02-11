@@ -1,7 +1,10 @@
 # SAFA-Artifacts
+
 ##Artifacts
 In this repository we make a set of artifacts available that were used for experiments in the paper:
-Leveraging Artifact Trees to Evolve and Reuse Safety Cases, Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, ICSE 2019 -- available in preprint form [here](icse_19_safa_preprint.pdf)
+Leveraging Artifact Trees to Evolve and Reuse Safety Cases, Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, ICSE 2019 -- available in preprint form [here](icse_19_safa_preprint.pdf).
+
+
 ##Overview of the SAFA Process
 Safety Assurance Cases (SACs) are increasingly used to guide and evaluate the safety of software-intensive systems. They are used to construct a hierarchically organized set of claims, arguments, and evidence in order to provide a structured argument that a system is safe for use. 
 However, as the size of the system evolves and grows in size, a SAC can be difficult to maintain.  In this paper we utilize design science to develop a novel solution for identifying areas of a SAC that are affected by changes to the system. Moreover, we generate actionable recommendations for updating the SAC, including its underlying artifacts and trace links, in order to evolve an existing safety case for use in a new version of the system.  
