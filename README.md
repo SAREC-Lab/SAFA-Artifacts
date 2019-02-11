@@ -4,6 +4,13 @@
 In this repository we make a set of artifacts available that were used for experiments in the paper:
 Leveraging Artifact Trees to Evolve and Reuse Safety Cases, Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, ICSE 2019 -- available in preprint form [here](icse_19_safa_preprint.pdf). The primary artifacts are two .JSON files which contain hazards, requirements, design definitions, source code, acceptance tests, and environmental assumptions linked together by traceability links to form a tree structure.  The root node of the tree is a single hazard that is mitigated through the contributions of the other artifacts.
 
+## Data Set
+The key contribution of the dataset is the raw data for two versions of the Dronology System [Version 0](/V0-simplified.json) and  [Version 1](/V1-simplified.json) released as JSON files. Researchers could write a simple parser to parse the .JSON files and to reconstruct the trees.  Our approach, as described in our ICSE paper generates the following trees from the .JSON files.
+
+![SAFA Approach](/SAFA_process.png)
+
+## Visual Perspective of Artifacts
+We further provide processed Graphviz files for both versions of the Artifact Trees ([V0](/V0_raw_artifacts_GraphvizFiles), [V1](/V1_raw_artifacts_GraphvizFiles)) as well as the [Delta Trees](/Delta_gvFiles)
 
 ## Overview of the SAFA Process
 Safety Assurance Cases (SACs) are increasingly used to guide and evaluate the safety of software-intensive systems. They are used to construct a hierarchically organized set of claims, arguments, and evidence in order to provide a structured argument that a system is safe for use. 
@@ -13,10 +20,6 @@ Our approach, **Safety Artifact Forest Analysis** (SAFA), leverages traceability
 Please also see the preprint of our paper [Leveraging Artifact Trees to Evolve and Reuse Safety Cases](icse_19_safa_preprint.pdf)
 (*Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz*)
 for additional details.
-
-## Overview
-
-![SAFA Approach](/SAFA_process.png)
 
 
 ## Hazard Analysis
@@ -36,9 +39,5 @@ for additional details.
 13. [UAV-999](/UAV-999.md)   - UAV receives waypoint commands but does not obey them
 
 
-## Data Set
-
-As part of this dataset we provide the raw data for both versions  [Version 0](/V0-simplified.json) and  [Version 1](/V1-simplified.json) as JSON files. 
-We further provide processed Graphviz files for both versions of the Artifact Trees ([V0](/V0_raw_artifacts_GraphvizFiles), [V1](/V1_raw_artifacts_GraphvizFiles)) as well as the [Delta Trees](/Delta_gvFiles)
 
 
