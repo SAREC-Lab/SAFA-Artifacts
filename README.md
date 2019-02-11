@@ -1,11 +1,12 @@
 # SAFA-Artifacts
 
-## Artifacts
-In this repository we make a set of artifacts available that were used for experiments in the paper:
-Leveraging Artifact Trees to Evolve and Reuse Safety Cases, Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, ICSE 2019 -- available in preprint form [here](icse_19_safa_preprint.pdf). The primary artifacts are two .JSON files which contain hazards, requirements, design definitions, source code, acceptance tests, and environmental assumptions linked together by traceability links to form a tree structure.  The root node of the tree is a single hazard that is mitigated through the contributions of the other artifacts.
-
 ## Data Set
-The key contribution of the dataset is the raw data for two versions of the Dronology System [Version 0](/V0-simplified.json) and  [Version 1](/V1-simplified.json) released as JSON files. Researchers could write a simple parser to parse the .JSON files and to reconstruct the trees.  
+In this repository we make a set of artifacts available that were used for experiments in the paper:
+
+!Leveraging Artifact Trees to Evolve and Reuse Safety Cases, 
+!Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, ICSE 2019 -- available in preprint form [here](icse_19_safa_preprint.pdf). The primary artifacts are two .JSON files which contain hazards, requirements, design definitions, source code, acceptance tests, and environmental assumptions linked together by traceability links to form a tree structure.  The root node of the tree is a single hazard that is mitigated through the contributions of the other artifacts.
+
+The key contribution of this dataset is therefore the raw data for two versions of the Dronology System [Version 0](/V0-simplified.json) and  [Version 1](/V1-simplified.json) released as JSON files. The data set is easily reusable through writing a simple .JSON parser.  For additional information about Dronology please visit [https://dronology.info](https://dronology.info).
 
 ## Overview of the SAFA Process
 
