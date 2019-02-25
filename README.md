@@ -1,5 +1,10 @@
 # SAFA-Artifacts
 
+To cite the dataset and artifacts used in this study, please cite the below DOI
+
+[![DOI](https://zenodo.org/badge/162755376.svg)](https://zenodo.org/badge/latestdoi/162755376)
+
+
 ## Data Set
 In this repository we make a set of artifacts available that were used for experiments in the paper:
 
