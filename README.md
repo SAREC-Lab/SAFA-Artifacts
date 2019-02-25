@@ -7,7 +7,7 @@ Leveraging Artifact Trees to Evolve and Reuse Safety Cases
 Ankit Agrawal, Seyedehzahra Khoshmanesh, Michael Vierhauser, Mona Rahimi, Jane Cleland-Huang, Robyn Lutz, 
 International Conference on Software Engineering, Montreal, Canada, 2019
 
-The paper is available in preprint form [here](icse_19_safa_preprint.pdf). 
+The paper is available in preprint form [here](ICSE_2019_SAFA_preprint.pdf). 
 
 The primary artifacts are two .JSON files which contain hazards, requirements, design definitions, source code, acceptance tests, and environmental assumptions linked together by traceability links to form a tree structure.  The root node of the tree is a single hazard that is mitigated through the contributions of the other artifacts.
 
